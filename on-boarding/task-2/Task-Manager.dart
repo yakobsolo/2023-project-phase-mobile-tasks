@@ -1,5 +1,5 @@
-import 'dart:io';
-
+import 'dart:io'; // improting the input output library
+// Task class
 class Task {
   String title;
   String description;
@@ -8,7 +8,7 @@ class Task {
 
   Task(this.title, this.description, this.dueDate, this.isCompleted);
 }
-
+// TaskManager class
 class TaskManager {
   List<Task> tasks = [];
 
