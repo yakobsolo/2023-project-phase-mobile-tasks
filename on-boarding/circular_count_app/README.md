@@ -1,16 +1,10 @@
 # circular_count_app
 
 A new Flutter project.
+## initial stage
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![normal state](https://github.com/yakobsolo/2023-project-phase-mobile-tasks/blob/main/on-boarding/assets/Screenshot%20(912).png)
+## After increment button has pressed
+![increment](https://github.com/yakobsolo/2023-project-phase-mobile-tasks/blob/main/on-boarding/assets/Screenshot%20(913).png)
+## after decrement button has pressed, just to show 
+![decrement](https://github.com/yakobsolo/2023-project-phase-mobile-tasks/blob/main/on-boarding/assets/Screenshot%20(915).png)
