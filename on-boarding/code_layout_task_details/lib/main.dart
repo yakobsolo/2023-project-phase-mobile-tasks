@@ -36,7 +36,7 @@ class _TodoState extends State<Todo> {
         leading:
             IconButton(onPressed: () {}, icon: const Icon(Icons.arrow_back_ios)),
         title: const Center(
-          child: Text("Todo List"),
+          child: Text("Task Detail"),
         ),
         actions: [
           IconButton(
